@@ -6,9 +6,21 @@
     <description>Recent content on Call me Rudi.</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
+    <lastBuildDate>Wed, 27 Mar 2019 12:44:33 +0530</lastBuildDate>
     
 	<atom:link href="https://rudimk.dev/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>about</title>
+      <link>https://rudimk.dev/about/</link>
+      <pubDate>Wed, 27 Mar 2019 12:44:33 +0530</pubDate>
+      
+      <guid>https://rudimk.dev/about/</guid>
+      <description>hello. i&amp;rsquo;m rudraksh, but you can call me rudi.
+i&amp;rsquo;m primarily an infrastructure and data engineering specialist. i help companies architect their infrastructure and data engineering stacks for maximum performance, resilience and flexibility. containers? infrastructure-as-code? cloud architecture? tensorflow pipelines? cloud cost optimisation? i&amp;rsquo;m you&amp;rsquo;re guy.
+right now, i&amp;rsquo;m the vice-president of research and development at a quaint company called indiqus, where we help set up public, private and hybrid clouds for a variety of enterprises and telecom groups.</description>
+    </item>
     
   </channel>
 </rss>
