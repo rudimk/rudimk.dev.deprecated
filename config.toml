@@ -26,18 +26,30 @@ pygmentsCodefences       = true
     images               = ["tn.png"]                       # Image that shows on Twitter cards and Open Graph links to the site
     title                = "Call me Rudi."
 
-[[params.mainMenu]]
-    link = "/posts"
-    text = "posts"
+#[[params.mainMenu]]
+#    link = "/posts"
+#    text = "posts"
+
+#[[params.mainMenu]]
+#    link = "/gallery"
+#    text = "gallery"
+
+#[[params.mainMenu]]
+#    link = "/portfolio"
+#    text = "portfolio"
 
 [[params.mainMenu]]
-    link = "/gallery"
-    text = "gallery"
-
-[[params.mainMenu]]
-    link = "/portfolio"
-    text = "portfolio"
-
-[[params.mainMenu]]
-    link = "/about"
+    link = "/about/"
     text = "who is rudi?"
+
+[[params.mainMenu]]
+    link = "https://github.com/rudimk/"
+    text = "github"
+
+[[params.mainMenu]]
+    link = "https://www.linkedin.com/in/rudimk/"
+    text = "linkedin"
+
+[[params.mainMenu]]
+    link = "https://twitter.com/rudrakshmk/"
+    text = "twitter"
