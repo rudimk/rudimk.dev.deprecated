@@ -1,8 +1,8 @@
 ---
 title: "about"
-slug: "about"
+url: "/about"
 date: 2019-03-27T12:44:33+05:30
-draft: true
+draft: false
 ---
 
 hello. i'm rudraksh, but you can call me rudi.
